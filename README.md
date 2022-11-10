@@ -1,4 +1,4 @@
-# Olá! Me chamo Larissa 🥰 
+# Olá! Me chamo Larissa 🥰
 ### Sou estudante de Ciência da Computação, cursando o 4º período na Universidade Tecnológica Federal do Paraná - UTFPR.
 
 ## Contato
